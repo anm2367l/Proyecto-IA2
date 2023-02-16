@@ -28,7 +28,7 @@ Link: https://www.kaggle.com/datasets/jirkaborovec/cervical-spine-fracture-detec
 ## Modelo CNN, Redes Convolucionales.
 ## Enlaces
 
-Video: https://youtu.be/VsstbbjJ-n0
-Repositorio: https://github.com/anm2367l/Proyecto-IA2.git
+- Video: https://youtu.be/VsstbbjJ-n0
+- Repositorio: https://github.com/anm2367l/Proyecto-IA2.git
 
 
