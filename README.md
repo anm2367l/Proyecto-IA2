@@ -1,7 +1,7 @@
-https://github.com/anm2367l/Proyecto-IA2/blob/05bf45690661d4049d0429c92cdffa3b1646caa0/baner-ia2.png
+![Image text](https://github.com/anm2367l/Proyecto-IA2/blob/main/baner-ia2.png)
 
 # Proyecto-IA2
-https://raw.githubusercontent.com/anm2367l/Proyecto-IA2/main/baner-ia2.png
+
 ## Integrantes
 Lewing Andres Mendez Ortiz codigo 2162120
 Diego Lozada Niño codigo 2170078
