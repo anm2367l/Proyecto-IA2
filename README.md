@@ -25,8 +25,7 @@ Los datos fueron obtenidos de un concurso postulado en kaggle, el dataset contab
 
 Link: https://www.kaggle.com/datasets/jirkaborovec/cervical-spine-fracture-detection-npz-3d-volumes
 
-## Modelo de Convolucionales, entrenamiento desde el disco.
-
+## Modelo CNN, Redes Convolucionales.
 ## Enlaces
 
 Video: https://youtu.be/VsstbbjJ-n0
