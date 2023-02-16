@@ -8,7 +8,7 @@ Diego Lozada Niño codigo 2170078
 
 ## Objetivo Principal
 
-- El objetivo central del proyecto se centro en realizar una clasificacion de las vertebras cervicales, al tener acceso a 341 gb de tomografias de pacientes de todo el mundo, se buscaba generar un modelo de aprendizaje de maquina que nos indicar que tan probable es que un paciente tuviese fractura en cada una de sus vertebras.
+- El objetivo central del proyecto se centro en realizar una clasificacion de las vertebras cervicales, al tener acceso a 341 GB  (tomografias de pacientes de todo el mundo) se buscaba generar un modelo de aprendizaje de maquina que nos indicar que tan probable es que un paciente tuviese fractura en cada una de sus vertebras.
 
 ##Objetivos secundarios
 
