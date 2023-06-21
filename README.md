@@ -2,7 +2,7 @@
 
 # Proyecto-IA2
 
-## Integrantes
+## Realizado Por:
 Lewing Andres Mendez Ortiz codigo 2162120
 
 ## Objetivo Principal
