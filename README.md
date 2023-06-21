@@ -4,7 +4,6 @@
 
 ## Integrantes
 Lewing Andres Mendez Ortiz codigo 2162120
-Diego Lozada Niño codigo 2170078
 
 ## Objetivo Principal
 
