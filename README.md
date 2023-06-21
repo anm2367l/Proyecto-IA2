@@ -1,4 +1,4 @@
-![Image text](https://github.com/anm2367l/Proyecto-IA2/blob/main/baner-ia2.png)
+![Image text](https://github.com/anm2367l/Proyecto-IA2/blob/main/baner-ia2-2.png)
 
 # Proyecto-IA2
 
